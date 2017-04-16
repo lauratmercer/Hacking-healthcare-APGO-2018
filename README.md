@@ -1,14 +1,13 @@
-# Hacking healthcare: APGO 2018
+# Hacking Health Education: APGO 2018
 
 **Title:**
 
-Hacking health education:
-an open source makeover for the health care curriculum 
+Hacking Health Education:
+an open source makeover for the healthcare curriculum 
 
 **Authors:**
 
-Laura Mercer, MD
-
+Laura Mercer, MD  
 Brian MacArthur, MD
 
 **Objectives:**
@@ -20,12 +19,12 @@ Brian MacArthur, MD
 
 **Agenda:**
 
-Presentation and discussion of objectives 1-4 (30 min)
+Presentation and discussion of objectives 1-4 (30 min)  
 Interactive session covering objective 5 (45 min)
 
 **Interactive component:**
 
-Participants will convert an existing presentation into a Litsignal module complete with references, attachments, and optional audio and video that can be accessed anywhere at https://litsignal.com/username/module-title
+Participants will convert an existing presentation into a Litsignal module complete with references, attachments, and optional audio and video that can be accessed anywhere (https://litsignal.com/username/module-title).
 
 **Take home product:**
 
