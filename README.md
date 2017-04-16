@@ -1,8 +1,8 @@
-# Hacking Health Education: APGO 2018
+## Hacking Health Education: APGO 2018
 
 **Title:**
 
-Hacking Health Education:
+Hacking Health Education:  
 an open source makeover for the healthcare curriculum 
 
 **Authors:**
@@ -24,7 +24,7 @@ Interactive session covering objective 5 (45 min)
 
 **Interactive component:**
 
-Participants will convert an existing presentation into a Litsignal module complete with references, attachments, and optional audio and video that can be accessed anywhere (https://litsignal.com/username/module-title).
+Participants will convert an slide presentation into a Litsignal module complete with references, attachments, and optional audio and video that can be accessed anywhere (https://litsignal.com/participant-username/module-title).
 
 **Take home product:**
 
