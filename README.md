@@ -1,4 +1,4 @@
-## Hacking Health Education: APGO 2018
+## APGO 2018 Proposal: Hacking Health Education
 
 **Title:**
 
@@ -33,3 +33,10 @@ A web-based Litsignal module on a topic of the participant's choice
 **Key words:**
 
 open-source, e-learning, podcasting 
+
+### About the authors
+
+**Laura Mercer, MD**  
+
+**Brian MacArthur, MD**  
+An obstetric hospitalist and computer programmer with a passion for applying open source principles and processes to healthcare education and standardization of care, Dr. MacArthur sits on the Banner Health Clinical Consensus Group for Women's Health and is the software developer behind Litsignal.com.
