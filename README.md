@@ -7,8 +7,9 @@ an open source makeover for the healthcare curriculum
 
 **Authors:**
 
-Laura Mercer, MD  
 Brian MacArthur, MD
+
+Laura Mercer, MD  
 
 **Objectives:**
 1) Explore barriers to collaboration and inclusion in medical education.
@@ -36,7 +37,8 @@ open-source, e-learning, podcasting
 
 ### About the authors
 
-**Laura Mercer, MD**  
-
 **Brian MacArthur, MD**  
 An obstetric hospitalist and computer programmer with a passion for applying open source principles and processes to healthcare education and standardization of care, Dr. MacArthur sits on the Banner Health Clinical Consensus Group for Women's Health and is the software developer behind Litsignal.com.
+
+**Laura Mercer, MD** 
+Dr Mercer is a clerkship director and a member of the current class of APGO Scholars and Leaders.  She has a particular interest in and is an advocate for using technology to enhance medical education, clinical practice, and collaboration among professionals.
